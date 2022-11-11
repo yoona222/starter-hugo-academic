@@ -29,7 +29,7 @@ interests:
 education:
   courses:
     - course: PhD in Pattern Recognition
-      institution: Stanford University
+      institution: Institute of Automation, Chinese Academy of Sciences
       year: 2015-2019
     - course: MEng in Automatic
       institution: Beijing Jiaotong University
@@ -46,7 +46,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: google-scholarp # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=09YqQNsAAAAJ
   - icon: github
