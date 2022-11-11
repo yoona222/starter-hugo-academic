@@ -28,15 +28,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Pattern Recognition
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2015-2019
+    - course: MEng in Automatic
+      institution: Beijing Jiaotong University
+      year: 2012-2015
+    - course: BSc in Automatic
+      institution: Beijing Jiaotong University
+      year: 2008-2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,5 +68,5 @@ email: yang.zhao@nlpr.ia.ac.cn
 highlight_name: true
 ---
 
-I am an Associate Professor in National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences. I obtained my Ph.D. in from NLPR in 2019. My advisor is Prof. Chengqing Zong {link: http://www.nlpr.ia.ac.cn/cip/cqzong.htm}. I am  interested in natural language processing, machine translation and knowledge graph. Before joining Institute of Automation, I got my Bachelor and Master degree in Beijing Jiaotong University. 
+I am an Associate Professor in National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences. I obtained my Ph.D. in from NLPR in 2019. My advisor is Prof. Chengqing Zong {\url: http://www.nlpr.ia.ac.cn/cip/cqzong.htm}. I am  interested in natural language processing, machine translation and knowledge graph. Before joining Institute of Automation, I got my Bachelor and Master degree in Beijing Jiaotong University. 
 
