@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Yang Zhao (赵阳)
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+given_name: Yang
+family_name: Zhao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: associate professor at NLPR
 
 # Organizations/Affiliations to show in About widget
 organizations:
