@@ -68,5 +68,5 @@ email: yang.zhao@nlpr.ia.ac.cn
 highlight_name: true
 ---
 
-I am an Associate Professor in National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences. I obtained my Ph.D. in from NLPR in 2019. My advisor is Prof. Chengqing Zong {http://www.nlpr.ia.ac.cn/cip/cqzong.htm}. I am  interested in natural language processing, machine translation and knowledge graph. Before joining Institute of Automation, I got my Bachelor and Master degree in Beijing Jiaotong University. 
+I am an Associate Professor in National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences. I obtained my Ph.D. in from NLPR in 2019. My advisor is Prof. Chengqing Zong {link: http://www.nlpr.ia.ac.cn/cip/cqzong.htm}. I am  interested in natural language processing, machine translation and knowledge graph. Before joining Institute of Automation, I got my Bachelor and Master degree in Beijing Jiaotong University. 
 
