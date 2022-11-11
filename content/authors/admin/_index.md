@@ -10,21 +10,20 @@ family_name: Zhao
 superuser: true
 
 # Role/position/tagline
-role: associate professor at NLPR
+role: associate professor at Institute of Automation, Chinese Academy of Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Institute of Automation, Chinese Academy of Sciences
+    url: http://www.nlpr.ia.ac.cn/cip/staff.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an Associate Professor in National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences. I obtained my Ph.D. in from NLPR in 2019. My advisor is Prof. chengqing Zong.  I work on natural language processing, machine translation.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Machine Translation
 
 # Education to show in About widget
 education:
